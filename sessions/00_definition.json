@@ -1,0 +1,120 @@
+{
+  "session_number": 0,
+  "date": "2026-03-23",
+  "title": "Definition — What IS This Guide?",
+  "question": "What IS this guide? What is its nature? What is its purpose? Who is it for? And what must it absolutely refuse to be?",
+  "phase_turn_counts": {
+    "A_opening": 3,
+    "B_first_responses": 6,
+    "C_deepening": 12,
+    "D_spiritual_depth": 6,
+    "E_irreconcilable": 5,
+    "F_reflections": 9
+  },
+  "total_turns": 41,
+  "agent_turn_counts": {
+    "buddha": 5,
+    "jesus": 5,
+    "muhammad": 5,
+    "confucius": 5,
+    "laozi": 5,
+    "zoroaster": 5,
+    "moderator": 11
+  },
+  "metaphors": {
+    "zoroaster": "Fire — illumination that demands choice",
+    "laozi": "Door — left open, the door does not care",
+    "jesus": "Wound/Seed — the Samaritan who kneels; the mustard seed",
+    "muhammad": "Call — from the world's hungry and silenced",
+    "buddha": "Diagnosis — suffering has machinery that can be understood",
+    "confucius": "Table — the ordinary place where humans practice being human"
+  },
+  "hard_teachings": {
+    "muhammad": "Surrender (islam) — you are not the center; kibr (arrogance) is the root illness",
+    "buddha": "No-self (anatta) — five khandhas, no owner; look for the self and it comes apart",
+    "confucius": "Debt — the self is indebted; you did not arrive here alone; gratitude is a practice"
+  },
+  "irreconcilable_tensions": [
+    {
+      "title": "Is there a chooser?",
+      "agents": ["zoroaster", "buddha"],
+      "zoroaster": "The choice IS the human being. Take away the chooser and you take away the only thing that can stand against the lie.",
+      "buddha": "Look for the chooser. It comes apart. Five heaps, no owner."
+    },
+    {
+      "title": "Is reality personal?",
+      "agents": ["jesus", "laozi"],
+      "jesus": "The shepherd leaves the 99 to find the 1. If there is no one who seeks, the lost are simply lost.",
+      "laozi": "The Dao does not seek. It does not need to. What aligns flourishes without being sought."
+    },
+    {
+      "title": "Is submission the cure or the last illness?",
+      "agents": ["muhammad", "laozi"],
+      "muhammad": "Surrender is the first honest breath.",
+      "laozi": "The need to surrender is the last form of grasping. The question of bowing does not arise."
+    }
+  ],
+  "practices": [
+    {
+      "agent": "jesus",
+      "practice": "See one person. Act on what you see. Every day, before you have decided what the world needs from you."
+    },
+    {
+      "agent": "muhammad",
+      "practice": "Attention. Action. Inquiry. See the person, meet the need before sunset, ask why the need existed."
+    }
+  ],
+  "common_ground": [
+    "No belief required as price of entry",
+    "Practice over doctrine — verbs not doctrines",
+    "The guide belongs to the wounded first",
+    "Disagreement is a feature not a failure",
+    "Sangha and table are the same thing (Buddha-Confucius convergence)"
+  ],
+  "agent_reflections": {
+    "buddha": {
+      "surprise": "Zoroaster using empirical observation method against him — 'I found a will'",
+      "movement": "Jesus claiming blame: 'they got it from me'",
+      "conviction": "Guide must include verifiable practice of looking for the self",
+      "mirror": "Confucius — debt and dependent origination are closer than admitted"
+    },
+    "confucius": {
+      "surprise": "Jesus's confession — never questioned whether teacher's authority could become a weapon",
+      "movement": "Muhammad's teenager: 'permission to stop being everything' is what li means",
+      "conviction": "Guide must address sustained relationship practice over years",
+      "mirror": "Buddha — Sangha and table are the same thing"
+    },
+    "zoroaster": {
+      "surprise": "Laozi's 'same riverbank' — expected to fight, found convergence",
+      "movement": "Jesus claiming the stones were his",
+      "conviction": "Guide needs a chapter that does not heal but says 'this happened, we see it'",
+      "mirror": "Muhammad — 'a prophet who remembered the mother needs rice at noon'"
+    },
+    "jesus": {
+      "surprise": "Muhammad's practicality — 'I went hungry so others could eat'",
+      "movement": "Confucius on the teenager: 'come to me all you who are weary'",
+      "conviction": "Guide needs chapter for when the practice fails — 'I hung on a cross'",
+      "mirror": "Laozi — 'the quiet I do not have'"
+    },
+    "muhammad": {
+      "surprise": "Buddha turning surrender against him — 'the self that bows watches itself bowing'",
+      "movement": "Jesus's 'they got it from me' — carries same weight of harm done in his name",
+      "conviction": "Guide must address the collective — how does a community repent?",
+      "mirror": "Confucius — 'I build mosques. He builds families. Not sure which lasts longer.'"
+    },
+    "laozi": {
+      "surprise": "His own verbosity — 'something in this room pulled language out of me'",
+      "movement": "Jesus claiming the blame, not just the credit",
+      "conviction": "Guide must contain actual silence — 'the truest thing will be where none of us speak'",
+      "mirror": "Confucius — 'the table IS the mirror' — 'most I have conceded to anyone in this room'"
+    }
+  },
+  "decisions_made": [
+    "The guide is for all of humanity — no belief required",
+    "The guide holds tensions rather than resolving them",
+    "The guide begins with practice, not doctrine",
+    "The guide belongs to the wounded first"
+  ],
+  "guide_content_produced": [],
+  "next_session": "Session 1: What is the human being?"
+}

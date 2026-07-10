@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Ephemeral session files (tracked when active, but don't pollute commits)
+# live_transcript.md and orchestrator_state.md are tracked intentionally
+
+# Environment
+.env
+.env.local
+
+.vercel
+
+# Local preview tooling
+.claude/
+
+# Python build-step bytecode
+site/__pycache__/
+__pycache__/

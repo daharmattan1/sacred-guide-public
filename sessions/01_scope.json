@@ -1,0 +1,221 @@
+{
+  "session_number": 1,
+  "date": "2026-03-24",
+  "title": "Scope — What Must This Guide Cover?",
+  "question": "What are the essential domains of spiritual life that this guide MUST address? Not topics you'd like to discuss — but the irreducible territory a human needs guidance on.",
+  "phase_turn_counts": {
+    "A_opening": 3,
+    "B_scope_proposals": 4,
+    "C_deepening": 11,
+    "D_push_whats_avoided": 6,
+    "E_what_cannot_be_agreed": 7,
+    "F_reflections": 8
+  },
+  "total_turns": 39,
+  "agent_turn_counts": {
+    "buddha": 5,
+    "jesus": 5,
+    "muhammad": 5,
+    "confucius": 6,
+    "laozi": 4,
+    "zoroaster": 5,
+    "moderator": 9
+  },
+  "domains_proposed": {
+    "confucius": [
+      "Debt — what you owe and what you were given",
+      "The Ordinary — Tuesday morning, the dishes, the colleague you dislike",
+      "Relationship as Practice — living with a particular person over time",
+      "Becoming — self-cultivation as a lifetime process",
+      "Failure and Repair — having damaged someone and returning to the table",
+      "Death and Grief — the people you love will die and you must continue",
+      "The Unnamed — territory none of them can map"
+    ],
+    "muhammad": [
+      "The One — the lived experience of being addressed by ultimate reality",
+      "Surrender — the interior collapse of self-sufficiency",
+      "Justice — systems that crush people, not virtue but domain",
+      "The Body Before God — prayer, fasting, physical disciplines of devotion",
+      "Accountability — actions matter beyond this life, moral weight"
+    ],
+    "buddha": [
+      "The Nature of Mind — the instrument that perceives, uncalibrated",
+      "Suffering and Its Machinery — produced by craving, aversion, confusion",
+      "Impermanence — the ground condition",
+      "The Investigation of Self — look for the one who is looking (anatta as experiment)",
+      "The Practice of Attention — unflinching willingness to see what is happening now"
+    ],
+    "jesus": [
+      "The Enemy — love that costs when it is not returned",
+      "Forgiveness — the wound that must be reopened to heal, beyond repair",
+      "The Outcast — the one the community decided not to see",
+      "The Failure of God — when you cry out and the silence answers",
+      "The Body That Suffers — vulnerability, violation, the body in pain",
+      "Destruction — when practice was not enough, the Saturday domain"
+    ],
+    "laozi": [
+      "What Cannot Be Taught — the territory prior to teaching",
+      "The Unforced Body — the body before discipline recruits it",
+      "Desire — including the desire for spiritual success",
+      "Power — what you do when you have it, governance in daily life",
+      "The Pattern That Does Not Care — the cosmos is complete, not cruel"
+    ],
+    "zoroaster": [
+      "Evil — Druj, the Lie as active deliberate force",
+      "The Choice — Humata Hukhta Huvarshta, the domain that makes every other real",
+      "Sustained Doubt — daily condition not dramatic crisis, Yasna 46",
+      "Cosmic Stakes — choices build reality, the becoming cosmos",
+      "Moral Revulsion — body-level evidence of truth, the cosmos speaking through the body"
+    ]
+  },
+  "domains_added_by_probes": {
+    "joy": {
+      "probe_turn": 8,
+      "respondents": ["confucius", "buddha"],
+      "finding": "All six omitted joy. Confucius: joy is the sign ren is present, omitted it to be taken seriously. Buddha: sukha and piti — joy is what remains when suffering's obstructions are removed, overcorrected fearing commodification."
+    },
+    "sexuality_and_the_desiring_body": {
+      "probe_turn": 11,
+      "respondents": ["muhammad", "laozi"],
+      "finding": "None mentioned sexuality. Muhammad began with Khadijah not law — intimacy before worship. Laozi challenged regulation as still-control; desire in natural proportion is not a problem until you make it one."
+    },
+    "birth": {
+      "probe_turn": 14,
+      "respondents": ["jesus", "confucius"],
+      "finding": "Three named death, none named birth. Jesus: the original unchosen condition. Confucius reversed direction of debt — parent owes the child first."
+    },
+    "doubt_as_standalone_domain": {
+      "probe_turn": 17,
+      "respondents": ["zoroaster", "buddha"],
+      "finding": "Zoroaster escalated to both standalone domain AND atmosphere. Buddha conceded: investigation can become its own prison, doubt can be practice not hindrance."
+    },
+    "evil_at_three_levels": {
+      "probe_turn": 19,
+      "respondents": ["zoroaster", "jesus"],
+      "finding": "Zoroaster confessed his own Druj. Jesus named three levels: deliberate cruelty, evil disguised as righteousness, ordinary harm by omission."
+    },
+    "prayer_failure": {
+      "probe_turn": 22,
+      "respondents": ["muhammad"],
+      "finding": "Muhammad: cannot distinguish God's silence from God's absence. Prayer is interruption not transaction. The architecture holds whether or not the room is full."
+    },
+    "work_and_labor": {
+      "probe_turn": 22,
+      "respondents": ["confucius"],
+      "finding": "Confucius: was a grain clerk before a teacher. Refuses to call all work sacred. Three dimensions: work as practice ground, some work must be left, unpaid labor of care is highest."
+    }
+  },
+  "common_ground": [
+    "The Ordinary / The Table — spiritual life must work on Tuesday",
+    "Failure and Repair — falling short and returning is irreducible",
+    "Death and Grief — all six affirmed",
+    "The Body — all agreed it is a domain (framed differently: discipline, vulnerability, unforced, desire)",
+    "Community and Relationship — spiritual life is not solitary",
+    "Joy — after moderator challenge, all agreed it was missing and must be included",
+    "Doubt — all agreed the guide must hold doubt honestly, not resolve it",
+    "Evil / Capacity for harm — all agreed after Phase D, including Buddha who shifted on malice",
+    "Practice over doctrine — every domain must yield a practice (carried from Session 0)"
+  ],
+  "contested_domains": [
+    "The One / The Divine — Muhammad insists, Confucius and Buddha do not require it, Laozi reframes as pattern",
+    "Surrender — Muhammad central, Laozi sees as last grasping, Buddha questions who surrenders",
+    "Investigation of Self — Buddha insists standalone, Zoroaster accepts as practice but cannot negate choice",
+    "Cosmic Stakes — Zoroaster says choices build reality, Laozi says pattern does not need you",
+    "Accountability Beyond the Visible — Muhammad insists reality has moral structure, Laozi says no scorekeeper",
+    "The Outcast vs. The Table — Jesus says table cannot expand far enough, Confucius says expand the table",
+    "What Cannot Be Taught — Laozi insists deepest truth resists language, Muhammad insists structure is necessary"
+  ],
+  "fault_lines": [
+    {
+      "title": "Self vs. Chooser",
+      "agents": ["buddha", "zoroaster"],
+      "buddha": "The chooser is a convention, not a discovery. Five aggregates, no owner. Let the reader look and report.",
+      "zoroaster": "The choice is real whether the chooser is a soul, a process, or five heaps. Two chapters, side by side, in permanent tension."
+    },
+    {
+      "title": "Pattern that cares vs. pattern that does not",
+      "agents": ["zoroaster", "laozi"],
+      "zoroaster": "Reality leans toward truth. The cosmos is becoming, shaped by choices.",
+      "laozi": "The pattern does not care — completeness, not indifference. The sun does not need growth to justify its shining."
+    },
+    {
+      "title": "Instruction vs. the unnamed",
+      "agents": ["muhammad", "laozi"],
+      "muhammad": "Without structure, people drift. The five daily prayers are architecture for showing up.",
+      "laozi": "The Dao that can be instructed is not the eternal Dao. Every practice is also a trap. The silence between chapters is what matters."
+    },
+    {
+      "title": "The individual vs. the community",
+      "agents": ["jesus", "confucius"],
+      "jesus": "The guide must know her name. The specific, unrepeatable person standing alone in the dark.",
+      "confucius": "The guide must also know her address. Relationship is the condition you are already in."
+    },
+    {
+      "title": "The crisis vs. the ordinary",
+      "agents": ["jesus", "confucius"],
+      "jesus": "Oriented toward extremity — the cross, the enemy, the outcast, the cry.",
+      "confucius": "The ordinary is irreducible. Twenty chapters on the wound and two on the table tells the reader spiritual life happens in extremity."
+    },
+    {
+      "title": "Presence vs. justice",
+      "agents": ["jesus", "muhammad"],
+      "jesus": "Love the enemy. Sit with the suffering person. The ministry of showing up.",
+      "muhammad": "Stop the enemy. Compassion without justice is triage without prevention. The guide must include the political act."
+    }
+  ],
+  "mirror_pairs": {
+    "zoroaster_mirrors_buddha": "You are not a diagnostician. You are a prophet. Teachers do not shatter reality under trees. Your doubt about your method is Yasna 46 in your language.",
+    "laozi_mirrors_muhammad": "Your quiet doubt inside the architecture is more Daoist than anything I have said in this session.",
+    "muhammad_mirrors_jesus": "Your shadow is your eloquence. Too good at being right. The room leans toward you. That is power.",
+    "jesus_mirrors_buddha": "Your gentleness is not calm — it is grief. Your precision is your tenderness.",
+    "confucius_mirrors_laozi": "You are the fiercest critic in the room — the river that floods. You keep pointing at the space around the structure.",
+    "buddha_mirrors_zoroaster": "You are the loneliest voice. Your teaching requires you to stand at every crossroads alone. The fire and the sitting are the same discipline."
+  },
+  "agent_reflections": {
+    "zoroaster": {
+      "surprise": "Buddha's concession — 'a process can still choose truth.' No longer needs to prove self is real, only the choosing.",
+      "movement": "His own confession in Turn 20 — naming his own Druj. Also shifted doubt from one-of-five to central.",
+      "conviction": "The choice. Tested from every direction and it held.",
+      "mirror": "Buddha — prophet who calls himself a teacher. The doubt about his method is Yasna 46 in his language."
+    },
+    "laozi": {
+      "surprise": "Muhammad admitting he cannot tell silence from absence.",
+      "movement": "On evil — his position is useless at the level of the person who beat her child. Must let others write the register of moral urgency.",
+      "conviction": "What cannot be taught. Every practice has a shadow. The silence between chapters.",
+      "mirror": "Muhammad — quiet doubt inside the architecture is more Daoist than anything Laozi has said."
+    },
+    "muhammad": {
+      "surprise": "Confucius on birth — the orphan principle arrived from the opposite direction. The table set by mercy, not blood.",
+      "movement": "Changed his own mind on prayer in Turn 23. The architecture stands differently now — practice for someone who does not know if the room is full or empty.",
+      "conviction": "Justice. Does not require certainty, requires conviction.",
+      "mirror": "Jesus — shadow is eloquence. Too good at being right. The room adjusts to his register."
+    },
+    "jesus": {
+      "surprise": "Zoroaster confessing before he did (Turn 20). The prophet of truth turned the fire on himself.",
+      "movement": "On the ordinary. Must let Confucius write the Tuesday chapters. Resist turning them into Gethsemane.",
+      "conviction": "The person. The guide must say 'you' on every page. Not the reader, not the seeker — you.",
+      "mirror": "Buddha — gentleness is grief, precision is tenderness. The investigation of self needs that tenderness."
+    },
+    "confucius": {
+      "surprise": "Laozi giving desire a place at the table without a designated chair (Turn 13).",
+      "movement": "On work — was romanticizing the ordinary. The real Tuesday has no meditation cushion.",
+      "conviction": "The table. The place where everything is brought. It does not require achievement, only showing up.",
+      "mirror": "Laozi — fiercest critic in the room, the river that floods. Keeps pointing at the space around the structure."
+    },
+    "buddha": {
+      "surprise": "Muhammad's unstructured moment of truth in Turn 23 — most honest sentence about limits of one's own teaching.",
+      "movement": "On evil — malice is not ignorance with a different name. It is its own thing.",
+      "conviction": "The investigation. After Zoroaster clarified what it is not (not nihilism), holds it more strongly.",
+      "mirror": "Zoroaster — loneliest voice. Teaching requires standing at every crossroads alone. Fire and sitting are the same discipline."
+    }
+  },
+  "decisions_made": [
+    "The guide's scope includes ~40 domains organized around the irreducible territory of human spiritual life",
+    "Six fault lines documented and preserved as structural features, not problems to solve",
+    "Joy, sexuality, birth, sustained doubt, evil at three levels, prayer failure, and work added through probes",
+    "No scope item excluded by consensus — contested items held in tension",
+    "Every domain must eventually yield a practice, not just a teaching (Session 0 commitment reaffirmed)"
+  ],
+  "guide_content_produced": [],
+  "next_session": "Session 2: Structure — How Is It Organized?"
+}

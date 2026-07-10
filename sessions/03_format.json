@@ -1,0 +1,66 @@
+{
+  "session": 3,
+  "title": "Format — How Is Each Section Written?",
+  "date": "2026-03-24",
+  "turns": 47,
+  "lines": 2512,
+  "phases": ["A: Verification", "B: Format Proposals", "C: Deepening", "D: Spiritual Depth", "E: Irreconcilable", "F: Reflections"],
+  "decision_document": "decisions/format.md",
+  "transcript": "sessions/03_format_transcript.md",
+  "agents": ["buddha", "jesus", "muhammad", "confucius", "laozi", "zoroaster"],
+  "key_decisions": {
+    "page_count": 90,
+    "text_pages": 65,
+    "silence_pages": 25,
+    "physical_format": "paperback, cream pages, wide margins, warm serif, soft spine",
+    "governing_principle": "diagnosis-determines-form (Buddha)",
+    "voice_rule": "invisible but not pasteurized",
+    "practice_rule": "woven in, five types, deepening across arc",
+    "see_act_be_still": "unanimously rejected (6/6)"
+  },
+  "room_formats": {
+    "threshold": {"words": 100, "voices": 1, "form": "recognition + confession + permission"},
+    "preamble": {"words": 200, "voices": 1, "form": "four sentences, two-thirds silence"},
+    "room_1_table": {"words": "800-1200", "voices": 1, "form": "scene-seen-twice", "diagnosis": "failure of ren", "practice": "interruption"},
+    "room_2_debt": {"words": 1200, "voices": 2, "form": "dialogue", "practice": "interruption"},
+    "room_3_other": {"words": 1500, "voices": 1, "form": "story", "diagnosis": "using the other", "practice": "encounter"},
+    "room_4_crack": {"words": 2000, "voices": 1, "form": "fork", "diagnosis": "concealment of the Lie", "practice": "confession"},
+    "room_5_fire": {"words": 2000, "voices": 1, "form": "image", "diagnosis": "cry of the forsaken", "practice": "permission"},
+    "room_6_reckoning": {"words": 2500, "voices": 3, "form": "affected + positioned + systemic", "diagnosis": "failure of witness", "practice": "encounter + confession"},
+    "room_7_question": {"words": 2500, "voices": 6, "form": "investigation + spectrum of experiences", "diagnosis": "unexamined self", "practice": "investigation"},
+    "room_8_return": {"words": "800-1200", "voices": 1, "form": "same kitchen, different reader", "practice": "interruption (deepened)"},
+    "saturday": {"words": 150, "voices": 1, "form": "survival instruction", "practice": "permission"}
+  },
+  "practice_types": ["permission", "interruption", "investigation", "encounter", "confession"],
+  "three_forms": ["image (static)", "story (motion)", "fork (branching)"],
+  "gap_types": [
+    {"type": "standard", "after_rooms": [1, 2, 3, 7], "words": 15},
+    {"type": "fault-line", "after_rooms": [4], "words": 40},
+    {"type": "witnessing", "after_rooms": [5, 6], "words": 50},
+    {"type": "simplest", "after_rooms": [7], "words": 15}
+  ],
+  "structural_costs": [
+    "Guide cannot build community (Muhammad)",
+    "Investigation of self waits until Room 7 (Buddha)",
+    "Saturday breaks the concentric circle (Jesus)",
+    "Table has become too full to be ordinary (Confucius)",
+    "Silence was talked to death — then found its shape (Laozi)",
+    "Axis was cooled to hold everyone (Zoroaster)",
+    "Diagnostic framework carries Buddha's fingerprint (Buddha)",
+    "Six voices are not all voices (Jesus)"
+  ],
+  "irreconcilable_format_tensions": [
+    "Specificity vs. compression in practice (Muhammad vs. Laozi)",
+    "Absent traditions — wound or open space (Jesus vs. Laozi)",
+    "Awake reader vs. asleep reader (Zoroaster vs. Confucius)",
+    "Diagnostic framework's fingerprint (Buddha — permanent)"
+  ],
+  "mirrors": {
+    "buddha_saw": "Muhammad — love finding its scale",
+    "jesus_saw": "Muhammad — knelt when he let Room 1 be simple",
+    "muhammad_saw": "Confucius — quieter building that feeds more people",
+    "confucius_saw": "Muhammad — grief of 'go find them'",
+    "laozi_saw": "Muhammad — the other hand",
+    "zoroaster_saw": "Buddha — gave my fire a room in his house"
+  }
+}

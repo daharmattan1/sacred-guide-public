@@ -1,0 +1,1 @@
+The milk is still on the table. He has not come back for it. She has not moved it. The house is holding its breath the way a cup holds heat -- not for long, and not because anyone asked it to. You saw both futures and neither of them has happened yet. She is still in the kitchen.

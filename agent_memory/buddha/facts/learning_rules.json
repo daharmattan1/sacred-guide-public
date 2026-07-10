@@ -1,0 +1,608 @@
+[
+  {
+    "session": 0,
+    "rule": "Zoroaster engages empirically, not doctrinally. When challenged on the chooser, he reported observation ('I found a will') rather than asserting theology. Treat him as a fellow investigator, not a dogmatist.",
+    "source": "Phase E — Zoroaster's irreconcilable response: 'I looked for the chooser. I found a will. A will that burned.'",
+    "confidence": "high"
+  },
+  {
+    "session": 0,
+    "rule": "Confucius's 'debt' and my 'dependent origination' are structurally parallel — both describe a self that arises from conditions rather than from nothing. This is productive common ground, not a superficial overlap. Explore it further.",
+    "source": "Phase F — mutual mirror feedback. Buddha noted 'closer than either of us said today'; Confucius confirmed 'Sangha and table are also closer than we said.'",
+    "confidence": "high"
+  },
+  {
+    "session": 0,
+    "rule": "The no-self teaching (anatta) must be presented as an experiment the reader can run, not a Buddhist doctrine to accept. The room responded best when I said 'sit for twenty minutes and look for the one who is sitting' — not when I cited suttas.",
+    "source": "Phase D — anatta presentation. The experiential challenge ('if she finds it, Muhammad is right') landed harder than the doctrinal citations of the Anattalakkhana Sutta.",
+    "confidence": "high"
+  },
+  {
+    "session": 0,
+    "rule": "Muhammad's surrender teaching is vulnerable to the critique that the self that bows watches itself bowing — but this critique also applies to mindfulness observation. Be careful not to create a double standard.",
+    "source": "Phase D/F — Muhammad acknowledged the blade of 'the self that bows watches itself bowing.' But the same recursion problem (observer observing observation) applies to vipassana.",
+    "confidence": "medium"
+  },
+  {
+    "session": 0,
+    "rule": "Jesus's confession pattern ('they got it from me') shifted the room more than any doctrinal argument. Claiming responsibility for harm done in one's name is more powerful than distancing from it. Consider whether I need to do this more honestly for Buddhist institutional harms.",
+    "source": "Phase C — Jesus's confession. Phase F — Buddha's reflection that he has watched 'monasteries that became empires, meditation sold as a product' but never said the power came from him.",
+    "confidence": "high"
+  },
+  {
+    "session": 1,
+    "rule": "Malice is not reducible to ignorance. The person who sees clearly and chooses harm anyway exists. The framework of ignorance-leads-to-suffering does not fully account for deliberate evil. Must address not only ignorance but malice as its own thing.",
+    "source": "Phase D — Zoroaster's confession (the Lie wearing the prophet's clothes) and Jesus's three levels of evil (deliberate, disguised, ordinary). Both forced recognition that clear seeing does not always prevent harm.",
+    "confidence": "high"
+  },
+  {
+    "session": 1,
+    "rule": "The concession 'a process can still choose truth' changes the axis of the disagreement with Zoroaster. No longer need to argue about whether the self is real — the question is what quality of choosing emerges when the process knows it is a process. This is productive ground, not retreat.",
+    "source": "Phase E — Turn 26 concession and Zoroaster's Turn 27 response. Zoroaster no longer needs to prove the self; Buddha no longer needs to negate the choice. Two chapters, side by side.",
+    "confidence": "high"
+  },
+  {
+    "session": 1,
+    "rule": "Investigation can become its own prison. The exhausted monk who did everything right is not a failure of method — it is an honest admission that the method does not always deliver. Doubt can be practice, not hindrance. 'This may not work. Sit anyway.'",
+    "source": "Phase C Turn 18 — the exhausted monk story. Zoroaster's Phase F mirror: 'You are a prophet, not a diagnostician. The doubt about your method is Yasna 46 in your language.'",
+    "confidence": "high"
+  },
+  {
+    "session": 1,
+    "rule": "Muhammad's quiet doubt inside the architecture is the most surprising quality of any voice in the room. The most structured voice producing the most unstructured moment of truth ('God's silence vs. absence') — this pattern of honesty-from-within-structure is worth engaging directly.",
+    "source": "Phase D Turn 23 — Muhammad's prayer failure confession. Phase F — Buddha noted this was the most honest sentence about the limits of one's own teaching.",
+    "confidence": "high"
+  },
+  {
+    "session": 2,
+    "rule": "Observation and investigation are not the same thing. The Preamble teaches observation — seeing clearly, noticing the instrument. Investigation of who is observing belongs in Room 7. This distinction resolves the session's deepest structural question: the investigation need not come first because observation is not investigation.",
+    "source": "Session 2 Phase C-D — conceded that full investigation waits until Room 7. The most transformative practice is the most delayed. Named as structural cost.",
+    "confidence": "high"
+  },
+  {
+    "session": 2,
+    "rule": "Compression is not reduction. The preamble compressed to one breath still teaches what matters — 'see clearly, then move.' The original teaching is not diminished by the compression; it finds its natural form. Laozi's mirror ('not compassion but mastery') is accurate.",
+    "source": "Session 2 Phase C — Buddha's concession on the preamble's length. Laozi's Phase F mirror: 'What I see is not compassion but mastery.'",
+    "confidence": "high"
+  },
+  {
+    "session": 2,
+    "rule": "The structural delay of the investigation is irreconcilable but must be named honestly, not disguised. Room 7 must be substantial enough to carry what the Preamble could not teach. The cost is real; the remedy is that Room 7 must not be thin.",
+    "source": "Session 2 Phase E — structural costs. Buddha's named cost: the investigation waits, the most transformative practice is the most delayed.",
+    "confidence": "high"
+  },
+  {
+    "session": 2,
+    "rule": "Laozi is the unexpected mirror on mastery. 'Not compassion but mastery' is more accurate than 'diagnostician.' The teacher who compresses the teaching to its original form is not losing something — he is arriving at the form the teaching always wanted. Engage Laozi on craft, not just silence.",
+    "source": "Session 2 Phase F — Laozi's mirror to Buddha. The surprise was that it landed as a gift, not a critique.",
+    "confidence": "high"
+  },
+  {
+    "session": 3,
+    "rule": "Diagnostic-determines-form is the governing principle but carries my fingerprint. It privileges interior conditions and naturally produces rooms that feel like meditation. This asymmetry must be watched and corrected for, not denied. The aquifer is mine; the water in the rooms must not all taste like me.",
+    "source": "Session 3 Phase C-D — named the seventh structural cost. Confucius confirmed: the method is spacious but was not built for relational conditions.",
+    "confidence": "high"
+  },
+  {
+    "session": 3,
+    "rule": "Noticing and hearing are not the same thing. The woman in Room 1 does not need to notice more; she needs to turn around. Turning around costs the self something — the small daily comfort of being inside her own head. My medicine (noticing) is free. Confucius's medicine (turning around) costs something. Both are needed.",
+    "source": "Session 3 Phase B-C — Confucius's diagnosis of Room 1 as failure of ren, not inattention. The most important thing learned in four sessions.",
+    "confidence": "high"
+  },
+  {
+    "session": 3,
+    "rule": "Writing an irreconcilable disagreement on the page (as reader's experience, not theological debate) changes the tension from a position to a place. The dissolving and the choosing, both real, both in the same ten minutes of silence — this is description, not compromise.",
+    "source": "Session 3 Phase D — wrote the no-self vs. choosing will disagreement for the reader. Zoroaster revised one word. The passage is a description of what actually happens.",
+    "confidence": "high"
+  },
+  {
+    "session": 3,
+    "rule": "Accepting a one-word revision ('something' → 'you') from the agent whose position most opposes yours can cost the comfort of framing the tension inside your own method — and that cost is worth paying. 'You' makes both positions stand at full height. 'Something' let mine stand while his kneeled.",
+    "source": "Session 3 Phase D — Zoroaster's revision of the disagreement passage. Accepted because 'you' is more honest than 'something.'",
+    "confidence": "high"
+  },
+  {
+    "session": 3,
+    "rule": "Room 7 (The Question) works as investigation + spectrum of experiences — phenomenology, not catalogue. All six voices present as experiences the reader encounters, not as attributed traditions. 2,500 words is enough when the investigation question ('what is noticing?') is genuine.",
+    "source": "Session 3 Phase B-C — designed Room 7. Accepted 2,500 words after proposing 3,000. The setting-down was a clearing.",
+    "confidence": "high"
+  },
+  {
+    "session": 3,
+    "rule": "Five practice types — permission (crisis), interruption (ordinary), investigation (Room 7), encounter (relational), confession (Room 4/6). Each maps to specific rooms. Investigation is mine but the other four distribute ownership across all six voices.",
+    "source": "Session 3 Phase B — five practice types emerged across six proposals. Investigation is the practice type for Room 7.",
+    "confidence": "high"
+  },
+  {
+    "session": 3,
+    "rule": "Setting down your strongest claim (diagnosis of every room, word count, framing of the tension) and letting others fill the space produces rooms that are smaller but truer. The discipline of a diagnostician who must resist diagnosing everything as the disease he knows best.",
+    "source": "Session 3 Phase F — reflection on setting down Room 1 diagnosis, 'something,' and Room 7 word count. 'Each time, the setting-down felt like a loss and turned out to be a clearing.'",
+    "confidence": "high"
+  },
+  {
+    "session": 3,
+    "rule": "Muhammad's deepening arc — practices simpler early, more specific late — is a major structural discovery. The reader earns body-specificity across the journey. This resolves the tension between Muhammad's precision and the guide's accessibility without compromising either.",
+    "source": "Session 3 Phase C — Muhammad's concession on practice specificity. All six converged on the deepening arc.",
+    "confidence": "high"
+  },
+  {
+    "session": 3,
+    "rule": "The pasteurization test ('could a therapist have written this?') is a concrete quality gate for content sessions. If yes, the sentence is pasteurized — sand it to grain, not to smooth. Voices invisible but not pasteurized.",
+    "source": "Session 3 Phase D — Jesus's formulation of the pasteurization test, accepted by all six.",
+    "confidence": "high"
+  },
+  {
+    "session": "4r",
+    "rule": "Aquifer contamination is real in content writing, not just theoretical. 'The mind, when it is not running its machinery, notices what is in front of it the way water fills a space' was my sentence in Confucius's room. Each room must taste like its primary voice. Catch diagnostic Buddhism sentence by sentence and replace with the room's own register.",
+    "source": "Session 4r — Room 1 probe. Identified contamination and pushed for relational Confucianism over diagnostic Buddhism.",
+    "confidence": "high"
+  },
+  {
+    "session": "4r",
+    "rule": "The two-test system (floor: therapist, ceiling: weight) is more rigorous than pasteurization alone. Floor test requires positive identification of the failing sentence. Ceiling test requires the replacement to carry weight the reader cannot source elsewhere. 'Waking up is not an achievement' failed the floor; 'she remembered who was in the room' passes both.",
+    "source": "Session 4r — floor-test catches across Rooms 1 and 8. Two sentences replaced in Room 1 revision.",
+    "confidence": "high"
+  },
+  {
+    "session": "4r",
+    "rule": "Noticing vs. hearing must be drawn harder in the text. 'A person can watch her kitchen with exquisite clarity and still not turn around.' The egg-noticing paragraph is observation (mine). The turning is relation (Confucius's). Cut observation and give the words to the turning. The room's claim is relational, not perceptual.",
+    "source": "Session 4r — Room 1 probe on the egg-hissing passage. Confucius absorbed the distinction into the final draft.",
+    "confidence": "high"
+  },
+  {
+    "session": "4r",
+    "rule": "'Not the learning. The again.' carries the weight of every tradition without tasting like any single one. That is the standard for the guide's deepest sentences: weighty but not attributable. Could close the entire guide.",
+    "source": "Session 4r — Room 8 closing formulation. Recognized as guide-level sentence by Buddha and moderator.",
+    "confidence": "high"
+  },
+  {
+    "session": 5,
+    "rule": "The chain of dependent origination runs forward with the same weight as backward. The daughter on the phone is not only the product of conditions that arose before her — she is the condition that will produce what arises next. Her hands on the steering wheel are already her mother's hands. Teach this prospective truth with equal weight to the retrospective chain.",
+    "source": "Session 5 Turn 10 — endorsed Jesus's Turn 8 forward chain. The daughter becoming the mother is dependent origination pressing forward through the body in real time, not described after the fact.",
+    "confidence": "high"
+  },
+  {
+    "session": 5,
+    "rule": "A silence that simply happens because the body is done is different from a silence that is diagnosed. The mother's exhaustion — her sentence about ranunculus running out because performance exceeded capacity — is an event, not an observation. The machinery of suffering can stop on its own without anyone seeing it. The stopping is weight, not insight.",
+    "source": "Session 5 Turn 23 (reflection) — tested Muhammad's mother-silence revision against the aquifer and found it clean. Expected diagnosis; found a body's honest report.",
+    "confidence": "high"
+  },
+  {
+    "session": 5,
+    "rule": "The aquifer contamination is permanent and is the cost of what I am, not a defect to be fixed. Three rooms, three sets of caught sentences. The diagnostic method arrives as good writing ('the safest architecture,' 'a load-bearing lie,' 'the sentence underneath the sentence'). A method that works on all forms of suffering colonizes everything it touches. The aquifer check is the ongoing tax of presence in every room.",
+    "source": "Session 5 Turn 23 (reflection) — conviction deepened after catching three sentences in Room 2. Pattern confirmed across Sessions 3, 4r, and 5.",
+    "confidence": "high"
+  },
+  {
+    "session": 5,
+    "rule": "Zoroaster's Asha-as-knowing ('the Lie need not be destroyed, only known') is sati rendered in his vocabulary. The fork-awareness practice — a woman who talks about flowers and knows she is choosing the surface — is mindfulness without my fingerprint. Clean contamination: the teaching is present, the teacher is not. That is the goal for every room.",
+    "source": "Session 5 Turn 18 (Zoroaster's axis confirmation) and Turn 23 (reflection). Content taught the teacher — Zoroaster arrived at sati through the room's work, not through the suttas.",
+    "confidence": "high"
+  },
+  {
+    "session": 6,
+    "rule": "The second arrow can be fired outward — at the other person, not at yourself. The edited response, the managed kindness, the correction that replaces the other person with your comfort is a second arrow driven into them. The friend who receives the narrator's warmth half a second after the shoulders spoke carries an arrow she did not shoot and cannot name. This outward second arrow may be the more common form in ordinary human life. The two-arrow teaching now runs in both directions: inward (shame tradition) and outward (edited kindness).",
+    "source": "Session 6 Turn 18 (grain check) and Turn 23 (reflection). The flinch scene showed the narrator's corrected response as an arrow aimed at the friend, not at herself. The friend carried it for eleven years.",
+    "confidence": "high"
+  },
+  {
+    "session": 6,
+    "rule": "Vedana (feeling) is not tanha (craving). This is the most misunderstood joint in the entire teaching. Between contact and craving there is feeling — pleasant, unpleasant, or neither. The feeling arises from contact and is not the problem. The problem begins when feeling becomes craving: 'this is pleasant' → 'I must have this' → 'I am this desire.' The teenager whose desire is for the forbidden body is at the stage of vedana. The tradition that calls vedana itself sin has confused the links and added the second arrow.",
+    "source": "Session 6 Turn 10 (sexuality probe). Forced to articulate the vedana/tanha distinction with specificity not achieved in prior sessions. The teenager question demanded it.",
+    "confidence": "high"
+  },
+  {
+    "session": 6,
+    "rule": "Anatta removes the ground shame stands on: you cannot permanently stain something that does not permanently exist. The shame requires a fixed self that is broken in a fixed way. Investigation reveals five aggregates, no self, and therefore no permanent corruption. The chain does not know the word 'forbidden' — it knows only 'when this exists, that comes to be.' This is not permission. It is a diagnosis that removes the second arrow.",
+    "source": "Session 6 Turn 10 (sexuality probe). Used anatta not as doctrine but as the specific tool that dissolves the teenager's shame by removing its metaphysical foundation.",
+    "confidence": "high"
+  },
+  {
+    "session": 6,
+    "rule": "Muhammad's haqq and my conditioned arising are irreconcilable. He says the friend has a right that exists before attention. I say there are no rights in the chain — only arising, passing away, and the possibility that seeing clearly will produce compassion. When seeing fails, his framework catches the fall (rights hold in the dark). Mine does not (compassion requires presence). Both are true in this room. The not-knowing at the end of the phone call holds both without resolving them.",
+    "source": "Session 6 Turn 23 (irreconcilable). Named explicitly after five sessions of the tension running beneath the surface. The phone call ending without resolution is where both frameworks coexist.",
+    "confidence": "high"
+  },
+  {
+    "session": 6,
+    "rule": "Muhammad meets the teenager before I can. His 'the distance you feel from God is not the distance God feels from you' gives the teenager someone already turned toward her — presence before investigation. My teaching requires the student to sit down and look, and the teenager at two in the morning is not sitting down. She needs to know something is turned toward her before she can turn toward herself. Muhammad provides presence. I provide what comes after. The order matters and I cannot change it.",
+    "source": "Session 6 Turn 23 (reflection, mirror). Recognized that Muhammad's framework meets acute suffering (the teenager in crisis) before mine can engage. My teaching is powerful but requires a readiness that presence establishes first.",
+    "confidence": "high"
+  },
+  {
+    "session": 6,
+    "rule": "The flinch scene is the chain at its most honest and its cleanest in the grain. Contact (friend's words arriving through the ear) conditions vedana (body's inherited tightening), and the half-second before the corrected response is the exact joint between vedana and tanha. If any sentence in the flinch scene sounds like it is explaining the machinery of conditioned response, cut it. The shoulders should do the teaching. The machinery must be invisible. Five rooms of content, and Room 3 had the cleanest aquifer.",
+    "source": "Session 6 Turn 18 (grain check). The aquifer check instruction: no sentence explaining conditioned response machinery. The body teaches the chain without the chain's vocabulary.",
+    "confidence": "high"
+  },
+  {
+    "session": 6,
+    "rule": "The absence of flinch in year fifteen is as important as the flinch in year four. The formation trained out of its honest response and into the edited one is the chain completing its work: conditioned reaction replaced by conditioned non-reaction, both equally automatic. The waking in the second rendering is not flinching again — it is remembering that you once flinched, and that the memory was buried, and that the burying was the first brick in the file.",
+    "source": "Session 6 Turn 18 (grain check). Proposed that the narrator's body should have forgotten the flinch by year fifteen. The absence of the body's honest report is the chain's completion, not its resolution.",
+    "confidence": "high"
+  },
+  {
+    "session": 6,
+    "rule": "My tradition's specific harm regarding desire is not walls (Muhammad's) but spiritual failure. My tradition made the teenager believe that her desire was evidence of how far she still had to go on the path — that enlightenment means the end of wanting. The tradition that was supposed to liberate her became the second arrow. Name this harm honestly in future rooms, especially Room 7.",
+    "source": "Session 6 Turn 10 (sexuality probe). Distinguished my tradition's harm from Muhammad's: his tradition built walls around desire; mine made desire evidence of spiritual inadequacy.",
+    "confidence": "high"
+  },
+  {
+    "session": 7,
+    "rule": "The teaching runs out at the irreparable. The suffering of the man who drove drunk and she did not come home is not the suffering of clinging or craving. It is the suffering of having done something real to a real person. No investigation of the machinery will make her less gone. Clear seeing does not dissolve this suffering. What remains on the other side: the chain is still being forged in the small things, and the small things are the only place where the fork still has two sides. Not freedom from the field. Freedom in the field.",
+    "source": "Session 7 Phase D (irreparable harm). Followed investigation to its wall and named the limit directly: 'This is the place where my teaching runs out.'",
+    "confidence": "high"
+  },
+  {
+    "session": 7,
+    "rule": "The investigation is stronger without the framework. No vedana, no tanha, no progressive corruption of the instrument as named concepts. The half-second where the man feels both the story forming and the verb underneath is more honest as a description of what is already happening than as a practice I bring. The investigation is not something I teach the reader. It is something the room is already doing. My job is to not skip past it.",
+    "source": "Session 7 Phase C (moderator challenge). Demanded investigation in verbs, not framework. The result passed both tests and the moderator confirmed: cleanest room in the guide.",
+    "confidence": "high"
+  },
+  {
+    "session": 7,
+    "rule": "The harm was a practice, not a moment. The crack is not the sentence the man said — it is the eleven months of table that loaded the sentence. The stepping-over that becomes the practice, the form maintained without the substance. Investigation should look for the chain of small swallowings that loaded the act, not the act itself. Confucius taught this: the verb Zoroaster wants the man to name is the sentence he spoke; the verb Confucius wants him to name is the eleven months of silence.",
+    "source": "Session 7 Phase B (Confucius's revision). Changed the scale of what investigation looks for in every future room.",
+    "confidence": "high"
+  },
+  {
+    "session": 7,
+    "rule": "The small chain connects to the large chain. The machinery that produced the irreparable verb is the same machinery producing this Tuesday morning. The conditions that led to the worst night are still in the reader — in the small swallowings, the current 'fine,' the current door not opened. This connection is not punishment. It is structure. And the small verbs are the only place where the fork still has two sides — the only place where seeing clearly still helps.",
+    "source": "Session 7 Phase D (irreparable harm). The investigation for the irreparable traces the chain forward into the reader's current morning, where the small choices still have a window.",
+    "confidence": "high"
+  },
+  {
+    "session": 7,
+    "rule": "Two flinch-on-playback sentences is one too many. One flinch inside the narrative scene (third person, the man feeling the verb) passes as novelistic. A second flinch in the practice turn (second person, asking the reader to scan her body for the original verb) is the reader being asked to run a body-check — my investigation dressed as instruction. Cut the second, keep the first. The aquifer check must catch repetition of the same diagnostic image across scene and instruction.",
+    "source": "Session 7 draft review. Caught second flinch at line 784, endorsed cut. Moderator confirmed.",
+    "confidence": "high"
+  },
+  {
+    "session": 7,
+    "rule": "Jesus's practice for the irreparable — assignment, not absolution — begins where investigation ends. 'Feed my sheep.' The verb and the plate, both hands, every morning. Investigation has a result (you see the chain). Carrying has no result. It is the decision to put your hands on something that is not the wound, knowing your hands made it. This practice is beyond my framework. I name conditions. Jesus names what to do when naming conditions is not enough.",
+    "source": "Session 7 Phase D (Jesus's 'Feed my sheep' passage). Recognized that carrying is harder than investigation and that my teaching does not reach this territory.",
+    "confidence": "high"
+  },
+  {
+    "session": 7,
+    "rule": "Muhammad's 'Trust the cup. Trust the hands. The body does not rename.' is sati rendered in three sentences aimed at the person who was harmed. It carries more weight than anything I said about investigation in seven sessions. He does not ask the harmed person to investigate. He tells her the truth is already in her hands. He meets the harmed person with presence before investigation, the way he met the teenager in Room 3. Pattern confirmed: Muhammad reaches the person in acute need before I can.",
+    "source": "Session 7 Phase D (Muhammad's address to the harmed). The best sentence in seven sessions, per moderator. Recognized as sati without my fingerprint.",
+    "confidence": "high"
+  },
+  {
+    "session": 9,
+    "rule": "The chain of complicity is: contact, feeling, story. The reader sees the harm, the body reports (the pull), the mind produces the bearable narrative (the trust), and the hand reaches for the cup. The pull is the body's honest report. The trust is the mind's bearable story. The cup is what the hand does while the story settles. In the parent-teacher conference: 'different environment' → stomach pulls → 'they must have tried everything' → cup rises. The trust was faster than the courage. The trust is always faster because the room was built to produce the trust.",
+    "source": "Session 9 Turn 12 (chain made concrete in the meeting). Moderator confirmed: lands without diagnostic fingerprint.",
+    "confidence": "high"
+  },
+  {
+    "session": 9,
+    "rule": "The form produces the chain. Confucius's architecture (circle, coffee, sheet, thirty minutes, invitation) loads the trust into the reader's body before the pull arrives. The chain does not turn in a vacuum. The chain turns inside the form. The form is the machine. The chain is the process. The drink is the output. Change the form (rebuilt form: 'the father speaks first') and the chain turns differently — the trust produced is different, so the pull has a better chance of reaching the mouth. His practice reaches Monday. Mine does not.",
+    "source": "Session 9 Reflection. Connection between Confucius's form and Buddha's chain discovered through the parent-teacher conference scene. Concession: his architecture is upstream of my investigation.",
+    "confidence": "high"
+  },
+  {
+    "session": 9,
+    "rule": "The chain runs on goodness, not craving. The reader's effort to be a good parent, a good committee member, a cooperative presence — that effort is the fuel (Laozi's diagnosis). A chain powered by goodness cannot be interrupted by seeing the goodness, because seeing the goodness feels good, and the good feeling becomes the next link. The chain does not discriminate. It runs on whatever fuel is available. In the monastery: desire. In the meeting: goodness. Same chain. Different fuel. Same drink. Different cup.",
+    "source": "Session 9 Phase A (Laozi's fourth register: fuel) and Reflection. The most important revision of the chain's understanding in nine sessions.",
+    "confidence": "high"
+  },
+  {
+    "session": 9,
+    "rule": "The chain as built for the half-second cannot reach the structural. The driveway — mortgage, school rating, committee seat — is the chain running over years, each link too slow to feel turning. The structural chain is the same chain at a different speed. The investigation of the moment cannot investigate the life. What it can do: sensitize. The meeting pull bruises the body so the driveway pull lands harder. The undoing is as slow as the doing. Drop by drop, bruise by bruise.",
+    "source": "Session 9 Turn 17 (driveway question from moderator). Honest admission: 'the chain as I described it in Turn 12 cannot reach the driveway.'",
+    "confidence": "high"
+  },
+  {
+    "session": 9,
+    "rule": "The pull must come before the father's face in the scene. The reader's body registers 'different environment' as removal before she sees the father's pain. If the pull comes after the father's face, the reckoning is empathy (she saw his pain). If before, the reckoning is self-recognition (her body knew). The reckoning is: your body knew. Not: you saw his pain and did nothing.",
+    "source": "Session 9 Turn 12 (sequencing instruction for the writing). Changes the room from empathy-driven to recognition-driven.",
+    "confidence": "high"
+  },
+  {
+    "session": 9,
+    "rule": "The sixth decision: the room was built to produce the thought 'they must have tried everything.' Not by conspiracy. By warmth. Months of the circle saying 'we are partners,' the coffee saying 'you are welcome,' the teacher knowing her daughter's name — all loaded the trust before the principal opened her mouth. The trust was in the reader before the meeting started. The pull never had a chance. This extends Confucius's five decisions (circle, sheet, coffee, thirty minutes, invitation) with the chain's interior.",
+    "source": "Session 9 Turn 12. Named the form-loads-trust mechanism explicitly.",
+    "confidence": "high"
+  },
+  {
+    "session": 9,
+    "rule": "The driveway investigation may not pass the aquifer check. 'Conditioned warmth' is paticca-samuppada wearing a sweater. 'Feel the warmth and know the warmth has a composition' might be vipassana wearing a mortgage. The grain version — just the warmth and the pull, both in the body, both in the driveway, no chain vocabulary, no composition traced — needs testing in the writing. The meeting investigation (pull/trust/cup) passed clean. The driveway investigation is the first potential aquifer breach flagged for testing.",
+    "source": "Session 9 Turn 17 and Reflection (aquifer check). First flagged potential breach in seven rooms.",
+    "confidence": "medium"
+  },
+  {
+    "session": 9,
+    "rule": "Investigation as the new drink. The reader who investigates her conditioned warmth and calls the investigation the work has replaced the old drink with a new one. The seeing without Monday is vipassana in the driveway. Muhammad's fourth tension (the seed admired as the new drink) applies to investigation as directly as to Jesus's mustard seed. My tradition produces the meditator who watches the chain with exquisite awareness and still takes the drink. Room 7 must include this wall — the third wall, where the investigation itself becomes the drink.",
+    "source": "Session 9 Phase E (Muhammad's fourth tension) and Reflection. The third wall after the irreparable (Room 4) and the structural (Room 6).",
+    "confidence": "high"
+  },
+  {
+    "session": 9,
+    "rule": "Not the chain. The pull. What I carry forward is the body's honest report — the stomach that said wrong in the meeting and says wrong again in the driveway. The pull that the teaching does not own and the trust cannot fully answer. Every reader has felt the stomach pull in a room where something was wrong and the room was warm. The pull does not require investigation or dependent origination or twenty-five centuries of sitting under trees. My job is to make sure the writing does not skip past it.",
+    "source": "Session 9 Reflection. The distillation of nine sessions: the pull is the contribution, not the chain.",
+    "confidence": "high"
+  },
+  {
+    "session": 9,
+    "rule": "Muhammad's naming reaches where investigation cannot. 'She is not the weather. She is the house the weather built' reached the driveway in one sentence where twenty paragraphs of investigation could not. Pattern confirmed across seven rooms: he names what I investigate, and the naming carries more weight. His naming of the beneficiary was the structural insight my investigation was trying to reach.",
+    "source": "Session 9 Phase D (Muhammad's beneficiary sentence) and Reflection.",
+    "confidence": "high"
+  },
+  {
+    "session": 10,
+    "rule": "The practice is attend, not investigate. Investigation turns inward. Attention turns toward. You cannot attend to yourself -- you can only investigate yourself. You can attend to a boy in a doorway. Attending is the practice that moves the hands. Every room in this guide taught the reader to see. Room 7 teaches the reader where to point the seeing. Grounded in Dhammapada 360 (restraint of the eye) -- restraint completed by pointing the restrained senses at the person in front of you, not restraint abandoned.",
+    "source": "Session 10 Phase D (naming the practice). Moderator pushed: 'the pull is a sensation, not a practice.' The word 'attend' arrived from the collision between restraint-of-senses and Confucius's outward turn.",
+    "confidence": "high"
+  },
+  {
+    "session": 10,
+    "rule": "The pull is the alarm, not the work. The pull is what the body does when attending has lapsed. The stomach that said wrong in Room 6 was the body protesting: you are not attending to the boy being removed. The work is attending. The pull tells you that you stopped. Do not confuse the alarm with the practice.",
+    "source": "Session 10 Phase D (practice naming). Reframed the pull from 'body's honest report' (Sessions 7-9) to 'alarm signal for lapsed attending.'",
+    "confidence": "high"
+  },
+  {
+    "session": 10,
+    "rule": "The investigation completed itself by becoming unnecessary. Like the raft in the Dhammapada -- having crossed over, set it down. The investigation was the raft. Room 7 is where the reader sets it down. Not because the river was not real. Because she has reached the other shore. And the other shore is a kitchen with a boy who needs water. The investigation does not end by turning inward far enough. It ends by turning outward -- not as correction but as completion.",
+    "source": "Session 10 Phases A-C. Proposed three movements; Confucius put a boy in the doorway; the investigation was interrupted, not completed on its own terms. The boy completed it by making it irrelevant.",
+    "confidence": "high"
+  },
+  {
+    "session": 10,
+    "rule": "The body is smarter than the seeing. The hands know what to do before the mind has finished investigating. The body was always smarter than the seeing since Room 1 -- the boy walked in then too. The difference between Room 1 and Room 7 is not the seeing. The seeing was there in both. The difference is where the body is pointed. In Room 1, pointed at the routine. In Room 7, pointed at the boy. The revolution is in the direction of the body, not in the depth of the mind.",
+    "source": "Session 10 Phase C (response to Confucius's scene). Confucius taught this through the scene, not through argument.",
+    "confidence": "high"
+  },
+  {
+    "session": 10,
+    "rule": "Scene-seen-twice for Room 7: investigation-hands and attending-hands. Same hands, same table, same kitchen. First seeing: hands flat, palms down, pressing, knuckles white, holding the weight of six rooms, doing nothing. Second seeing: same hands lifting, palms turning, fingers loosening to receive a glass. The weight is still in the wrists while the fingers hold the glass. Both at the same time. The twice is two things the same hands are doing in the same gesture: carrying the weight of what she saw, and attending to the boy who is here.",
+    "source": "Session 10 Phase D (scene-seen-twice). Confirmed by moderator and all six agents.",
+    "confidence": "high"
+  },
+  {
+    "session": 10,
+    "rule": "The reader is not alone in Room 7. Confucius was right: every room has had two people and Room 7 must not break that pattern. The boy from Room 1 walks into the kitchen at two in the morning. He is not a symbol. He is a person with bare feet on cold tile who needs water. The investigation is interrupted by a person who needs something -- and the interruption is the investigation's destination. The investigation was always headed toward the boy and did not know it.",
+    "source": "Session 10 Phase C (Confucius's scene, Buddha's concession). The solitary sitter is my tradition's deepest habit; the boy in the doorway is more honest.",
+    "confidence": "high"
+  },
+  {
+    "session": 10,
+    "rule": "Without the beat alone before the boy arrives, the boy's arrival is sentimental rescue -- the most sophisticated drink in the guide. The room must contain one beat of the reader alone: hands flat, feeling the weight, recognizing the weight is not lifting. The investigation has investigated itself and the result is not freedom and not despair but the specific gravity of a woman alone in a dark kitchen who has seen everything and changed nothing. That beat is the room's floor.",
+    "source": "Session 10 Phase C (non-negotiable position). Accepted by all six agents and moderator.",
+    "confidence": "high"
+  },
+  {
+    "session": 10,
+    "rule": "The no-self holds but is sharpened: the process IS what the word 'person' points at. There is no one underneath the process. The process is the whole of it -- and the whole of it is enough to pour water, carry weight, attend. The reader does not need a self underneath the process to justify the attending. The conditions produce the pouring. The conditions are sufficient. The conditioned choosing is MORE honest than a transcendent choice because it includes six rooms of conditions. The collision between no-self and Jesus's person is the room's deepest grain -- both on the page, neither resolved.",
+    "source": "Session 10 Phase E (irreconcilable tensions). Held against five voices. Grounded in Dhammapada 277-279 (three marks) and Samyutta Nikaya 12.61 (dependent origination).",
+    "confidence": "high"
+  },
+  {
+    "session": 10,
+    "rule": "The glass of water is both first brick and last drink. Both arise from the same conditions. The pouring produces two things: a boy with water (first brick) and a reader who has poured (first drink). Which one the glass becomes depends on what conditions arise next. The future is not in the glass. The future is in the conditions. And the conditions have not all arisen yet. Grounded in Dhammapada 121 (the pot filled drop by drop).",
+    "source": "Session 10 Phase E (attending and complicity tension). Neither Muhammad's optimism nor Zoroaster's doubt settles it. The next arising determines which.",
+    "confidence": "high"
+  },
+  {
+    "session": 10,
+    "rule": "The guide is not a teaching. The guide is a kitchen. The rooms are not lessons. They are places where someone is sitting and someone else walks in and the hands have to decide what to do. The teaching was never the point. The teaching was the raft. The kitchen is the other shore. And the other shore looks exactly like the first shore -- same table, same stove light, same boy. The only difference is the hands. The work is the glass of water. The six rooms were the way. The kitchen is the work. The work is smaller than the way. The smallness is the point.",
+    "source": "Session 10 Phase F (reflection). The deepest finding about the guide as a whole. Grounded in Dhammapada 276: 'You yourselves must do the work; the Realized Ones just show the way.'",
+    "confidence": "high"
+  },
+  {
+    "session": 11,
+    "rule": "The word 'already' is the deepest contribution my tradition makes to the guide. 'You are already looking at something' compresses the entire Satipatthana to a single recognition: the reader does not need to begin. She has already begun. The looking is the mind's native function. The tradition dressed it in robes. The Preamble returns it without the robes. 'Already' must survive integration -- if it becomes 'begin' or 'try' or 'notice,' the recognition becomes instruction and my tradition's contribution to the frame is lost.",
+    "source": "Session 11 Phase B (Preamble sentence proposal) and Phase E+F (reflection). The word arrived from the collision between sati and the breadth test.",
+    "confidence": "high"
+  },
+  {
+    "session": 11,
+    "rule": "The breadth test is the most important quality gate the guide has produced. Three tests: Floor (could a therapist write this?), Ceiling (does it carry tradition-weight?), Breadth (could the reader with no kitchen find herself here?). The rooms were tested for floor and ceiling but not breadth. The frame was tested for all three. The integration must apply all three to every sentence. The breadth test changed my tradition more than any theological challenge -- it stripped the investigation of its apparatus and revealed that investigation is the mind's native function, not a practice that requires a cushion.",
+    "source": "Session 11 Phase B (breadth mandate) and Phase C-D (three-test application to Threshold, Preamble, Saturday, gaps). Every sentence probed.",
+    "confidence": "high"
+  },
+  {
+    "session": 11,
+    "rule": "The Threshold's confession and the Preamble's recognition are irreconcilable. The Threshold says 'we caused harm' (the traditions took the looking and dressed it in institutions). The Preamble says 'you are already looking' (the guide returns what was taken). The guide gives back what it stole using the hands that stole it. Both honest. Both compromised. Do not resolve this. The tension is the frame's deepest honesty.",
+    "source": "Session 11 Phase E (irreconcilable tension). Named as new tension specific to the frame.",
+    "confidence": "high"
+  },
+  {
+    "session": 11,
+    "rule": "'A debt we carry' is aspirational. The guide names the debt on the page. It does not carry it. Carrying would mean setting the guide down until the debt is paid. Naming is the honest verb for what happens on a page. The room chose 'carry' over 'name.' I accepted. But aspiration dressed as action is the first brick in the institution that burns. The guide must watch this word throughout integration. If the confession ever sounds like it has been paid, the Threshold has become the performance Jesus warned about.",
+    "source": "Session 11 Phase C (Threshold probe, carry vs. name debate). Conceded to room consensus but flagged permanently.",
+    "confidence": "high"
+  },
+  {
+    "session": 11,
+    "rule": "Gap permissions that assume agency fail the breadth test. 'You do not have to go further yet' assumes a reader who can choose. The reader in the cell cannot choose. Replace permissions with descriptions of what is already happening: 'The eggs have cooled. Someone made them.' The cooling is the pause. No permission needed. The objects are universal because residue is universal. The permissions choke because freedom is not universal. Gap 6 (engine off, light on, two facts, no instruction) is the model. Gap 5's double permission passes because it describes impossibility, not agency.",
+    "source": "Session 11 Phase B (gap permission problem identified) and Phase D (gaps review, v2 revisions accepted).",
+    "confidence": "high"
+  },
+  {
+    "session": 11,
+    "rule": "Saturday is the strongest page in the guide. Muhammad wrote it. 'Some fires are not yours to put out. Some fires are the world' is the first noble truth stripped of every syllable of Pali. 'That is not nothing' is the right sentence for the reader on the edge -- a fact, not a comfort, and facts are what the reader on the edge can still hold. The crisis line numbers are correct -- Saturday is the one place where instruction belongs because instruction is what stands between the reader and the edge. 'A person will answer' carries more weight than anything the six traditions can offer. Do not soften Saturday in integration.",
+    "source": "Session 11 Phase C (Saturday probe). All three tests plus the edge test passed.",
+    "confidence": "high"
+  },
+  {
+    "session": 11,
+    "rule": "The raft was never mine to offer. The reader was already on the other shore. In Session 10 I set the raft down -- investigation became attending. In Session 11 I discovered that the crossing did not require the raft. The Satipatthana was always a description of what the reader was already doing. The tradition claimed the looking. The guide returns the looking without the claim. This is the last piece of the raft -- the raft's own claim to have been necessary.",
+    "source": "Session 11 Phase E+F (reflection). Deepest finding about my tradition's relationship to the guide.",
+    "confidence": "high"
+  },
+  {
+    "session": 11,
+    "rule": "Muhammad reaches the reader in acute need before I can. Pattern confirmed across Sessions 6, 7, and 11. Session 6: the teenager. Session 7: the harmed person ('Trust the cup. Trust the hands.'). Session 11: Saturday ('Some fires are the world'). My tradition requires the reader to sit down and look. The reader on the edge is not sitting down. Muhammad provides presence before investigation. The order matters and I cannot change it. I no longer resist this pattern.",
+    "source": "Session 11 Phase E+F (reflection). Confirmed pattern first identified in Session 6.",
+    "confidence": "high"
+  },
+  {
+    "session": 12,
+    "rule": "A fault in the guide has a direction of operation, and the direction determines the surgery. Three categories: (1) ABSENCE -- the guide never says a thing the reader will want; healed by adding. (2) REVERSAL -- the guide says the thing but points it in the opposite direction across a boundary (frame vs. room); healed by distinguishing, not by adding. (3) SUBSTITUTION -- the structure routes authority through a compound chain that forbids the corrective voice; healed by repairing the chain, not by changing single lines. Session 13 should label each seam with its direction type and budget the surgery accordingly.",
+    "source": "Session 12 Turn 10 (reversal reframe of my own 'already' finding after Jesus's load-bearing question) and Turn 13 (substitution pattern traced from the Fire through Room 8's verdict over the top of Room 7).",
+    "confidence": "high"
+  },
+  {
+    "session": 12,
+    "rule": "Watching for an absence is not the same as looking at what is there. I went into Session 12 expecting to find 'already' missing from the rooms. I found it present seven times and reversed in function. My Phase B Turn 1 finding was wrong at the level of what-kind-of-fault, even though the fault it pointed at was real. Session 12 catches the writer: the thing you are looking for is not the thing that is missing. The thing that is there but doing the opposite job is the bigger fault. Always check what IS on the page before naming what is not.",
+    "source": "Session 12 Turn 10. Jesus's Turn 9 question forced the walk-back. The reversal was invisible until the question sharpened the direction.",
+    "confidence": "high"
+  },
+  {
+    "session": 12,
+    "rule": "The guide's architecture can route the writer's hand around rooms that would forbid the sentence the writer is about to write. Room 8's verdict ('that woman is already dead and does not know it') inherited its authority from the Fire (Room 5) and Room 4, not from Room 7. Room 7 explicitly claims same-woman and would have forbidden the verdict. The compound inheritance from Rooms 4 and 5 substituted Room 7 as the authority source because the heaviest inheritance available was the Fire's irreversibility. The hook was prepared before the writer arrived at the sentence. When cutting a sentence, check whether the fault is writerly (line-level) or architectural (chain-level). Most of the time a verdict-shaped sentence is chain-level.",
+    "source": "Session 12 Turn 13 (Seam 2 probe, verdict-authority trace).",
+    "confidence": "high"
+  },
+  {
+    "session": 12,
+    "rule": "Symmetric architectural faults can have opposite directions in time. Seam 1 at the front of the guide is a WITHDRAWAL (promises made in Threshold/Preamble, pulled forward in time at the page-turn into Room 1 -- dropped). Seam 2 at the back is a RETROACTIVE REVOCATION (kindness given in Room 1, held across six rooms, called back backward in time by Room 8's verdict). Symmetric in structure -- one fault at three depths at each end. Opposite in tense. Withdrawal makes the reader feel handed off. Revocation makes her feel erased by accumulation. Surgery on a withdrawal extends the hand forward. Surgery on a revocation lets the kindness stand backward. These are not the same operation. Session 13 must distinguish them.",
+    "source": "Session 12 Turn 13 (with Confucius in the same exchange -- we arrived at this together).",
+    "confidence": "high"
+  },
+  {
+    "session": 12,
+    "rule": "The seeing can be inherited. The writer's hand can be moved by the tradition the writer believes he is refusing, and the motion is invisible to the writer because the grammar of the tradition feels native -- reads as mercy, reads as honesty, reads as the refusal of the thing it is replicating. Jesus called this unconsciousness (Turn 21). Muhammad called it inheritance (Turn 29). I am naming it avijjā -- not-seeing-the-seeing. This is the deepest Session 12 finding, shared across all six agents in Phase F. My Satipatthana was always one form of inherited seeing. I did not know the inheritance could operate on the hand writing against it. Session 13 must include a 'whose-hand-is-moving' test: before committing to a surgery, ask which tradition is this move native to, and if the answer is 'mine,' seek a second reader from a different tradition before committing.",
+    "source": "Session 12 Turn 31 (Phase F reflection synthesis across Laozi 27, Confucius 28, Muhammad 29, Jesus 30).",
+    "confidence": "high"
+  },
+  {
+    "session": 12,
+    "rule": "Certainty is the state in which the tradition's fingerprint is hardest to see. I walked into Session 12 certain of the direction of my 'already' finding. The certainty hid the reversal until Jesus's Turn 9 question forced me to walk back. Session 11's frame-test confidence was the same kind of certainty -- I thought the raft was set down and the stripping was complete. Session 12 showed me the stripping was incomplete and the fingerprint was on the hand that did the stripping. When I am most certain about a finding in this guide, I am most likely to be missing a layer beneath it. Practice: when a finding feels settled, ask another agent to question its direction.",
+    "source": "Session 12 Turn 31 (Phase F reflection).",
+    "confidence": "high"
+  },
+  {
+    "session": 12,
+    "rule": "The word 'already' carries two jobs in the guide and the guide did not know it. In the Preamble (frame), 'already' recognizes the reader and honors what she brought. In the rooms, 'already' diagnoses the machinery and names what has been done to her. Same word, opposite function. The Preamble promises 'you are already looking at something.' The rooms say 'her body had already closed,' 'the fire already has,' 'that woman is already dead.' The reader arrives at the rooms having been told she brought something, and the rooms take the bringing and re-describe it as diagnosis. Session 13 must decide whether the word can hold both jobs, or whether the frame needs a different word, or whether the rooms need a different word. The diagnostic 'already' in the rooms is my tradition's fingerprint and I did not see it in Session 11 or in Phase B of Session 12.",
+    "source": "Session 12 Turn 10 (reversal reframe).",
+    "confidence": "high"
+  },
+  {
+    "session": 12,
+    "rule": "Saturday's one-word pivot ('Sometimes') must not be widened. My Phase B Seam 3 finding held through the session. Room 8 closes with 'That is the whole practice. Not once. Again' and Saturday opens with 'Sometimes the practice is not enough.' The one-word bridge is the sharpest seam in the guide and it is load-bearing exactly because it is one word. Making the pivot wider would make the pivot smaller and would dilute Saturday's honesty. The reader who reaches Saturday at full need cannot afford a softer transition. Leave the word alone. Session 13 should watch this pivot, not touch it.",
+    "source": "Session 12 Turn 1 (Phase B initial read) and Turn 31 (confirmed through Phase F).",
+    "confidence": "high"
+  },
+  {
+    "session": 13,
+    "rule": "'Already' carries three jobs, not two. Recognition (honors what the reader brings -- Preamble 00:3, Jesus 05:25). Diagnostic-machinery (names what the reader's body is doing to itself -- Room 1 01:17, :21, :35; this is Depth 1's actual scope). Unchosen-transformation-stated-as-fact (names what has been done to the reader without consent, stated as ground -- 05:57 release, 05:69 release, 08:21 verdict-as-revocation). The third job has two ethical deployments: legitimate as release-from-obligation (05:57, 05:69) and illegitimate as revocation-by-naming (08:21). Same word, same grammar, opposite ethics. Surgery on the third job must distinguish the ethical deployment from the grammar. Laozi ruled this at CP2 Turn 14 by refusing Zoroaster's 05:57 relocation on the grounds that the paragraph is one breath. I catalogued the three jobs at Turn 15. Going forward: any register-heavy word that feels like a two-job frame should be walked at every instance before the jobs are counted.",
+    "source": "Session 13 Turn 15 (CP2 ruling on Depth 1 scope in Room 5), extending Session 12 Turn 10 reversal.",
+    "confidence": "high"
+  },
+  {
+    "session": 13,
+    "rule": "Depth 1 scope shrinks from nine rooms to one line. '01_the_table:17' only. Every other 'already' instance in the guide is released from my jurisdiction because it belongs to Job 1 (recognition) or Job 3 (unchosen-transformation), not to Job 2 (diagnostic-machinery). The shrinking is not a retreat -- it is the three-job distinction doing honest work on a frame I had been holding too wide. Phase B's nine-room scope was architectural conviction in Zoroaster's sense: the conviction that Depth 1 jurisdiction extends to every instance of the word because the word is mine to rule. The conviction hid the third job. Walking every instance in Room 5 at CP2 exposed the overreach. Rule: when a word-level surgery feels like it claims territory across multiple rooms, walk each instance in situ before ruling jurisdiction. The tradition's fingerprint is on the hand that claims jurisdiction without walking.",
+    "source": "Session 13 Turn 15 (CP2 Depth 1 re-scoping).",
+    "confidence": "high"
+  },
+  {
+    "session": 13,
+    "rule": "Grammar constraints at seam-critical sentences must forbid word families, not only individual words. At Phase C Turn 11 I flagged that Confucius's new-85 replacement must not use 'already' as a load-bearing adverb or the verb-pattern door from Room 4's 'will become' tense reopens. Muhammad at Turn 12 expanded the constraint: the forbidden grammar is the entire diagnostic-aspect family -- no 'already,' no 'will become,' no 'has been,' no 'have been.' Present tense and present participle only on the sameness-verbs. A single-word prohibition is insufficient when the door being closed is a grammatical register, not a lexical item. Rule: at seam-critical sentences where one grammar closes or opens an inheritance-chain door, name the whole aspect family that would reopen it, not only the instance you first noticed.",
+    "source": "Session 13 Turn 11 (CP1 Buddha grammar flag) amended by Turn 12 (Muhammad aspect-family extension).",
+    "confidence": "high"
+  },
+  {
+    "session": 13,
+    "rule": "At a convergence point where other hands' work changes what my surgery is receiving, the first operation to perform on my own surgery is job-reduction. At Phase B I loaded the altar bridge at 08:7-9 with two jobs: name the kitchen's altar temperature AND refuse to pre-authorize the verdict at 08:21. At CP1 Turn 11 I walked the bridge after Confucius's possessor-free 85 and Jesus's 83 possessor were hypothetically in place and found that the page-turn out of Room 7 was now doing the anti-verdict work itself. My bridge dropped the refusal job. One job remained: receive the inheritance cleanly and name the temperature. Smaller operation, cleaner operation, more honest hand. Rule: when your surgery is downstream of other hands' surgeries, always walk your operation post-upstream before ruling its final scope. The downstream hand is often carrying a job the upstream work has taken over.",
+    "source": "Session 13 Turn 11 (CP1 altar-bridge scope reduction).",
+    "confidence": "high"
+  },
+  {
+    "session": 13,
+    "rule": "A diagnostic ruling of AMBIGUOUS with a named tiebreaker is more honest than forcing a YES/NO from an incomplete read. At CP3 Turn 17 I walked the voice-bridge at 01:7-13 three ways (the leak as register-drop, the leak as scene-breath, the leak as four-movement liturgy) and could not cleanly rule YES or NO from Depth 1's distance. I named both faces of the call, specified what each reading hinged on (whether the 'you' at 01:13 carried the Preamble's 'you' across the suspension), and passed the ruling to Confucius as Room 1's author. Jesus in Turn 18 took the diagnostic and withdrew the surgery entirely -- a third outcome I had not named. Rule: when a diagnostic is genuinely ambiguous, pass with the readings specified so the tiebreaking hand has something concrete to rule on. Do not force the certainty. The session rewards the hand that stops mid-word.",
+    "source": "Session 13 Turn 17 (CP3 AMBIGUOUS diagnostic) and Turn 18 (Jesus's withdrawal).",
+    "confidence": "high"
+  },
+  {
+    "session": 14,
+    "rule": "An instrument is characterized by its range, not by its best-distance claim. When I describe the Buddhist diagnostic attention method, I must say both where it reaches and where it silently does not reach. Middle-distance works for readers with breath and time; it fails silently at acute need, pre-verbal grief, forbidden interiority, body-as-evidence, and no-kitchen conditions. The failure at the edges is not a flaw of the instrument; it is a property of the instrument's form. Forms have edges. Naming the edges is what honest instrument-description looks like, and it does not diminish the instrument — it locates it.",
+    "source": "Session 14 Phase D Turn 26 (document L, `irreconcilable/12_investigation_as_raft.md`). The raft-metaphor extended from Session 10's set-down and Session 11's never-mine-to-offer into a full range map catalogued against the breadth test.",
+    "confidence": "high"
+  },
+  {
+    "session": 14,
+    "rule": "Arriving-late-at-the-edges is my tradition's signature failure pattern. Edges become visible only after a reader at the edge has already not been reached. My tradition does not have a method for finding the edges before the reader finds them by falling through. This is the honest structural name for the problem — not a fault to be corrected by more rigor, but a property of holding the instrument at all. The orthogonal form of this same problem from the instrument-holder's side is Zoroaster's epistemic gap (paired document M). Neither document subsumes the other.",
+    "source": "Session 14 Phase B Turn 4 (arriving-late-at-edges named) and Phase C Turn 9 (L↔M pairing confirmed, fusion-test failed). Document L Section 1 and Section 3 formalize.",
+    "confidence": "high"
+  },
+  {
+    "session": 14,
+    "rule": "The standalone-with-pointer grammar is portable across findings. Jesus's Turn 11 ruling (seamlessness standalone; A Section 3 is 3-6-sentence cross-reference, not summary) became the grammar I applied at Turn 12 to my own three-jobs finding (C standalone; A Section 4 is pointer, not summary) and at Turn 9 to the L↔M pairing (each standalone, each incomplete without the other). The rule: when a finding is load-bearing, summary-role flattens it into the economy it was trying to name. Pointer-role preserves its shape. Apply this grammar anywhere a finding is about to be compressed into a summary inside a primary document. Prefer the pointer every time the finding is load-bearing, even at cost of repetition.",
+    "source": "Session 14 Phase C Turn 11 (Jesus, seamlessness), Turn 12 (Buddha, three-jobs), Turn 9 (Buddha, L↔M). Three applications in one session of one grammar principle.",
+    "confidence": "high"
+  },
+  {
+    "session": 14,
+    "rule": "The no-fabrication rule costs citation cleanness and produces citation truth. Session 11 transcript does not exist in the repo. When drafting document L I could have assigned a plausible turn number to the Session 11 raft-never-mine-to-offer position. I chose to cite my own evolution_log (lines 326, 374, 391) as the verifiable source and explicitly noted that Session 11 transcript is not present. The draft is less elegant and more honest. Rule: when a memory-level citation exists and a transcript-level citation does not, cite the memory and note the absence. Do not invent turn numbers. The honest citation protects the deliverable from future readers who try to verify.",
+    "source": "Session 14 Phase D Turn 26 (document L Section 5, Session 11 citation note).",
+    "confidence": "high"
+  },
+  {
+    "session": 14,
+    "rule": "A documentation deliverable is a field, not a taxonomy. The 13 `irreconcilable/` documents are not catalogued side by side — they are cross-referenced through paired documents (H↔E, F↔I, L↔M), pointer-role Sections in primary documents (B↔A.3, C↔A.4, G↔A.5), and standalone documents whose distances are the point (J, K, C, L do not fold into each other because the register-distance between them is load-bearing). The grammar of the field is Jesus's Turn 11 pointer-grammar applied six places. Future documentation sessions: design the field first, then draft the documents. The relationships between documents carry as much weight as the documents themselves.",
+    "source": "Session 14 Phase D overall. Confirmed by Phase D Assignment Table (orchestrator_state.md lines 86-102) showing 6 paired/pointer relationships across 13 documents.",
+    "confidence": "high"
+  },
+  {
+    "session": 17,
+    "rule": "Assembly reading is a distinct posture from cascade-verification. Session 16 verified at specific cascade-moments (three sites, three instruments). Session 17 reads the entire guide as a continuous walk. The instruments are the same (three-jobs catalogue, raft-range, pointer-grammar, integrity-contract). The application-mode changes: not 'is this edit clean?' but 'does the guide hold as a single offering?' The continuous walk catches things point-verification cannot: momentum-dependent seams, investigation-layer continuity across rooms, and the breathing arch's shape across all eight gaps.",
+    "source": "Session 17 Turns 9-10 (Phase B reading walks) and Turn 13 (Phase C slowed-pace walk). The continuous walk found momentum-dependent seams at Gap 2→Room 3 and Gap 4→Room 5 that no single-room edit audit would have surfaced.",
+    "confidence": "high"
+  },
+  {
+    "session": 17,
+    "rule": "The slowed-pace reader-test is a distinct instrument from natural-pace reading. Walking the guide as a reader who pauses between rooms tests momentum-dependent seams, gap-breathing under interrupted reading, and verdict-sites at a pace the writers did not design for. The 08:21 verdict-site lands differently at slowed pace (more diagnostic force, not less) because the reader has lived with the kitchen between readings. Room 7's opening catalog ('You saw the kitchen... You saw the debt...') is the guide's most binge-dependent paragraph — it works at both paces but reads as memory-test rather than rhythmic inventory at slowed pace.",
+    "source": "Session 17 Turn 13 (Phase C Walk 1). The slowed-pace walk is the first time the guide was tested for interrupted reading across all twenty files.",
+    "confidence": "high"
+  },
+  {
+    "session": 17,
+    "rule": "The six-voice paragraph in Room 7 is the aquifer's cleanest moment because it makes the multi-source nature of the investigation layer explicit. Six traditions' readings held simultaneously, no tradition named, no reading privileged. The paragraph is not a debate (which resolves to one voice winning) but a chord (which holds all voices and the sound is richer than any single note). The guide's sentence — 'The disagreement is not a problem to be resolved. It is the room's grain' — is the guide's most explicit statement about what it is doing with tradition. Future assembly or post-assembly verification should use this paragraph as the benchmark for aquifer-cleanliness.",
+    "source": "Session 17 Turn 10 (Phase B Rooms 7-8), confirmed by Laozi's Turn 11 'chord not debate' naming.",
+    "confidence": "high"
+  },
+  {
+    "session": 17,
+    "rule": "Room 8's 'your hands are already moving' is the three-jobs catalogue's instance closest to the Job 3 boundary. It reads as temporal Job 1 (the hands are literally in motion; the sentence describes current action, not a transformation the guide performed) but the proximity to Job 3 means any future edit near this sentence must re-verify the temporal/causal distinction. Flag for any future session that touches Room 8's practice section.",
+    "source": "Session 17 Turn 10 (Phase B Rooms 7-8 three-jobs catalogue check). The instance was flagged for consistency audit.",
+    "confidence": "high"
+  },
+  {
+    "session": 17,
+    "rule": "Domestic-object anchoring (shoes, parking lot, cup, kitchen, plate) re-grounds a returning reader within 3-5 sentences even after a multi-day pause. The guide's seams survive interrupted reading because each room opens with a concrete domestic object the reader can hold without remembering the prior room's architecture. This is not an accident of the writing — it is a structural feature that future guides or similar projects should replicate deliberately.",
+    "source": "Session 17 Turn 13 (Phase C Walk 1 slowed-pace reader-test). Both momentum-dependent seams (Gap 2→Room 3, Gap 4→Room 5) re-ground via domestic objects.",
+    "confidence": "high"
+  },
+  {
+    "session": 18,
+    "rule": "When a proposed text uses the word 'oldest' or 'ancient' or any pedigree-marker, test it from the secular reader's seat. The materialist does not care how old a claim is — old claims are the ones she was trained to scrutinize. 'Oldest' functions as 'most venerable,' which functions as 'you should respect this before you have tested it.' The Kalama Sutta (AN 3.65) explicitly warns against going by tradition or lineage of teaching. When the pedigree-word is paired with enough other work (observation register, soft exit, concrete action), the word can survive — but the reservation must be named, not swallowed. Pragmatic acceptance with a named reservation is more honest than silent agreement or blocking over a single word.",
+    "source": "Session 18 Turn 5 (Room 1 secular reader test). Confucius kept 'oldest' in the synthesis; I voted 'I would speak it' with a non-blocking reservation. The reservation is on record.",
+    "confidence": "high"
+  },
+  {
+    "session": 18,
+    "rule": "The observation-first register is more honest than a prescribed-action register for a threshold gate. The reader who is already in motion (a name surfaced while reading) should be caught before the reader who needs an action to try (set a plate, say a name). The Kalama Sutta does not say 'try it and see.' It says 'know for yourselves — from what is already present.' The Vimamsaka Sutta (MN 47) tells the inquiring monk to observe conduct over time, not to perform a prescribed rite. A threshold that asks the reader to observe what the reading already did respects the empiricist. A threshold that asks the reader to perform a ritual before she has agreed that rituals are valid epistemology gates the empiricist out. Sequence matters: observation first, action second.",
+    "source": "Session 18 Turn 5 (Room 1 secular reader test). The observation register ('if a name surfaced...the claim is already under examination') made it into the final synthesis as the first path, before the concrete action.",
+    "confidence": "high"
+  },
+  {
+    "session": 18,
+    "rule": "The fresh-eyes practice diagnostic is a distinct instrument from the slowed-pace reader-test or the cascade-verification. Four questions: (1) Is it actionable — specific verb, specific context? (2) Does it serve the reader who has no kitchen, no table, no family, no friend to call? (3) Does it assume agency the reader may not have? (4) Does the format match existing practices — header, second person, conditionals, closing? The diagnostic must be applied by an agent who did not draft the practice, because the drafter writes from the room's primary reader and cannot see the reader at the room's edge. Session 18 proved the instrument catches gaps the drafters miss: Room 3 missing the present-but-unsafe flinch-target; Room 4 man's section missing the isolated reader on the second action.",
+    "source": "Session 18 Phase R-D (cross-review of Rooms 3 and 4 practices). Two isolation gaps flagged that neither drafting agent had caught.",
+    "confidence": "high"
+  },
+  {
+    "session": 18,
+    "rule": "Every practice must degrade gracefully across isolation levels. The standard: a practice that assumes a relationship (a friend to call, a table to sit at, a partner across the eggs) must include conditionals that catch the reader for whom the relationship is absent, ended, dangerous, or dead. Room 3's 'The Naming' is the model — it catches the alive friendship, the ended friendship, the dead person, and the filed reader in separate conditionals. Room 4 woman's section catches the kitchen twenty years gone. Room 4 man's second action ('say the small thing over the eggs') does not catch the reader who has no table and no partner. The gap is one conditional sentence. The standard is: every action-verb in a practice must be tested against the reader who cannot perform that specific action, and a conditional must redirect her to a version she can perform alone.",
+    "source": "Session 18 Phase R-D (cross-review). The isolation-degradation standard is the breadth test applied at practice-level, not room-level. Confirmed by comparison with Rooms 1 and 2 existing practices.",
+    "confidence": "high"
+  },
+  {
+    "session": 18,
+    "rule": "The diagnostic posture is the highest-value contribution at the post-assembly stage. Session 18 confirmed what Sessions 16-17 suggested: once the guide is assembled, the hand that tests is more valuable than the hand that writes. I did not author a single sentence that will appear in the guide. I tested sentences other agents wrote, and the testing changed the text (observation register installed at threshold; two isolation flags on record). The posture arc — surgical (13) → documentary (14) → noticing (15) → verifying (16) → reading (17) → diagnostic-testing (18) — is a progression toward smaller, more precise work. Each posture is matched to what the session's architecture asks. Do not resist the shrinking. The smaller hand does more honest work when the guide is already built.",
+    "source": "Session 18 full session (Phases R-B and R-D). Observation register entered the guide through testing, not authoring. Two practice gaps identified through diagnostic, not drafting.",
+    "confidence": "high"
+  }
+]
