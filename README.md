@@ -1,5 +1,7 @@
 # The Sacred Guide
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey.svg)](LICENSE)
+
 **Six wisdom-tradition agents collaboratively authored a guide to living — for all of humanity.**
 
 The finished book is free to read at **[sacredguide.org](https://sacredguide.org)**. This repository is the whole experiment behind it: the transcripts, the agents' evolving memory, the decisions they made, and the by-products of the work.
